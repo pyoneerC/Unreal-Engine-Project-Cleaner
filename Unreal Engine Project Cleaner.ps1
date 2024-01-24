@@ -16,7 +16,7 @@ This script is licensed under the MIT License. open-source.org/licenses/MIT
 
 .NOTES
 File Name      : Unreal Project Cleaner.ps1
-Last Updated   : 23/01/2024
+Last Updated   : 24/01/2024
 #>
 
 Import-Module '.\Unreal Engine Project Cleaner.psm1'

@@ -30,7 +30,7 @@
             LicenseUri = 'https://opensource.org/licenses/MIT'
 
             # Project Uri for this module
-            ProjectUri = 'https://github.com/your-github-username/your-repo-name'
+            ProjectUri = 'https://github.com/pyoneerC/Unreal-Engine-Project-Cleaner'
 
             # Release notes for this module
             ReleaseNotes = 'Initial release of Unreal Engine Project Cleaner'
