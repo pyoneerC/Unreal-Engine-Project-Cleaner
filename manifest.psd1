@@ -9,10 +9,10 @@
     GUID = '57ea71e2-639e-4a1a-bd3c-107147d52489'
 
     # Author of this module
-    Author = 'Max Comperatore'
+    Author = 'pyoneerC'
 
     # Copyright statement for this module
-    Copyright = '(c) 2024 Max Comperatore. All rights reserved.'
+    Copyright = '(c) 2024 pyoneerC. All rights reserved.'
 
     # Description of the functionality provided by this module
     Description = 'This script cleans the specified Unreal Engine project directory by removing specified subdirectories.'

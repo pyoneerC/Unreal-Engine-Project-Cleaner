@@ -6,10 +6,10 @@ Unreal Engine Project Cleaner
 This script cleans the specified Unreal Engine project directory by removing specified subdirectories.
 
 .AUTHOR
-Max Comperatore
+pyoneerC
 
 .COPYRIGHT
-Copyright (c) 2024 Max Comperatore. All rights reserved.
+Copyright (c) 2024 pyoneerC. All rights reserved.
 
 .LICENSE
 This script is licensed under the MIT License. open-source.org/licenses/MIT
