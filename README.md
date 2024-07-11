@@ -8,8 +8,20 @@ Unreal Engine Project Cleaner is a PowerShell script designed to `clean up your 
 ## Features
 
 - Detects Unreal Engine projects automatically.
-- Deletes intermediate, saved, and binaries folders, among others useless folders.
+- Deletes intermediate, saved and others useless folders.
 - Easy to use.
+
+> [!IMPORTANT]
+> This script will delete the following folders:
+> - .idea/
+> - .vs/
+> - Config/
+> - DerivedDataCache/
+> - Intermediate/
+> - Platforms/
+> - Saved/
+> - Binaries/
+> - Build/
 
 ## Usage
 
@@ -17,6 +29,9 @@ Unreal Engine Project Cleaner is a PowerShell script designed to `clean up your 
 2. Enter the path to your Unreal Engine project folder.
 3. Confirm deletion.
 4. Done!
+
+> [!CAUTION]
+> This script will permanently delete the specified folders and files. Make sure you have a backup of your project before running it.
 
 ## Contributing
 
