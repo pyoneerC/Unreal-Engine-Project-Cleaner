@@ -2,8 +2,9 @@
 
 ![alt text](upc.png)
 
-Unreal Engine Project Cleaner is a PowerShell script designed to `clean up your Unreal Engine project folder`. It `automates the process of deleting intermediate, saved, and binaries folders`, as well as Visual Studio solution and project files, helping you maintain a clean and efficient development environment.
+![puppet.gif](puppet.gif)
 
+Unreal Engine Project Cleaner is a PowerShell script designed to `clean up your Unreal Engine project folder`. It `automates the process of deleting intermediate, saved, and binaries folders`, as well as Visual Studio solution and project files, helping you maintain a clean and efficient development environment.
 ## Features
 
 - Detects Unreal Engine projects automatically.
